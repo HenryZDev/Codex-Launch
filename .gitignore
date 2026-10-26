@@ -1,0 +1,23 @@
+# Build outputs and disposable test artifacts
+/dist/
+/work/
+/backup/
+/outputs/
+
+# Locally obtained OpenAI icons are not repository assets
+/assets/*.ico
+
+# Machine-specific shortcuts, runtime data and credentials
+*.lnk
+logs/
+diagnostics.json
+window-state.json
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vs/
+*.user
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,11 @@
+{
+  "ApplicationId": "OpenAI.Codex_2p2nqsd0c76g0!App",
+  "MaxWaitSeconds": 120,
+  "StableWindowSeconds": 0.75,
+  "TransitionSeconds": 1.05,
+  "ExpansionSeconds": 0.28,
+  "MinimumAnimationSeconds": 2.5,
+  "ReducedMotion": false,
+  "WindowWidth": 960,
+  "WindowHeight": 600
+}
